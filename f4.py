@@ -1,0 +1,5 @@
+név = input('Mi a neved? ')
+hossz = len(név)
+print('*' * (hossz+4))
+print('*', név, '*')
+print('*' * (hossz+4))
